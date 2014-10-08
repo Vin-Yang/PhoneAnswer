@@ -1,0 +1,87 @@
+/*----------------------------------
+*作用：该样式文件适用于除了index页面的所有页面！
+*作者:杨文鹏
+*联系:15353723247
+*时间：14-9-2
+-----------------------------------*/
+#wrapper {
+    width: 100%;
+}
+
+header {
+    width: auto;
+    text-align: center;
+    background: #69B147;
+}
+
+header h2 {
+    margin: 0;
+    padding: 5px 0;
+    color: #ffffff;
+}
+
+article {
+    padding: 15px;
+    text-align: center;
+}
+
+.section {
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid #69B147;
+}
+
+section p, .userInfo p {
+    text-align: justify;
+    font-size: 15px;
+}
+
+.userInfo {
+    width: 100%;
+    text-align: left;
+}
+
+.userInfo p {
+    display: inline-block;
+    width: 49%;
+}
+
+#answer {
+    color: #69B147;
+}
+
+p.endTime {
+    width: 100%;
+}
+
+p.endTime span {
+    color: #FC0505;
+    font-weight: bold;
+}
+
+p.content {
+    font-weight: bold;
+}
+
+section h3 {
+    text-align: left;
+    margin: 0;
+}
+
+.start {
+    height: 35px;
+    line-height: 35px;
+    color: #ffffff;
+    background: #69B147;
+    width: 45%;
+    border-radius: 5px;
+}
+
+.end {
+    height: 35px;
+    line-height: 35px;
+    color: #ffffff;
+    background: #69B147;
+    width: 45%;
+    border-radius: 5px;
+}
